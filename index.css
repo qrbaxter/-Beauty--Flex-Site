@@ -121,6 +121,7 @@ header,
 
 .section-two-image-container {
     display: flex;
+    justify-content: center;
     flex-wrap: wrap;
     gap: 1em;
 }
@@ -129,6 +130,7 @@ header,
     width: 100%;
     border-radius: 4.6px;
 }
+
 
 .feature-item {
     flex: 1 260px;
