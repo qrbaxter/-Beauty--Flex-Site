@@ -99,7 +99,7 @@ footer {
 
 header, 
 .section-two {
-    background-color: darkorchid;
+    background: linear-gradient(to left, #C06C84, #6C5B7B, #355C7D);
 }
 
 .section-two {
